@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.com.mauroheinrich</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>HelloWorld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>HelloWorld</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -60,7 +60,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>ar.com.mauroheinrich.demo.DemoApplication</mainClass>
+					<mainClass>ar.com.mauroheinrich.helloWorldo.HelloWorldApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
